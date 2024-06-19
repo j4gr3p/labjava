@@ -1,0 +1,59 @@
+.titulo {
+    color: #4CA923;
+    background-color: #57FCC2;
+  }
+  /*CAMBIOS SOBRE RAMA CSS */
+  div {
+    background-color: blue;
+    color: white;
+  }
+  #nombre {
+    border-radius: 20px;
+    color: green;
+  }
+  .estclase {
+    background-color: green;
+  }
+  #estilo .primer em {
+    color: black;
+    background-color: red;
+  }
+  p.small{
+    font-size: small;
+  }
+  p.medium{
+    font-size: medium;
+  }
+  p.large{
+    font-size: large;
+  }
+  p.xlarge{
+    font-size: x-large;
+  }
+  h1{
+    font-size: 30px;
+  }
+  h2{
+    font-size: 15px;
+  }
+  .normal{
+    font-style: normal;
+  }
+  .italic{
+    font-style: italic;
+  }
+  .oblique{
+    font-style: oblique;
+  }
+  .normalw{
+    font-weight: normal;
+  }
+  .lighter{
+    font-weight: lighter;
+  }
+  .bold{
+    font-weight: bold;
+  }
+  .bolder{
+    font-weight: bolder;
+  }
